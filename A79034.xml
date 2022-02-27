@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Scots remonstrance or declaration; concerning, the restoring their declared King to his just rights and priviledges; with their raising an army of 25000 men, and setting forth a great fleet of ships, and what their designe is. Also, a more exact relation of the resolute deportment of the late Marquess of Montross, and several speeches spoken by him, at the time of his execution. Together, with the Lord Hoptons letter, to divers of the gentry in Cornwall, and Devonshire, concerning the King of Scots, and the Parliament of England; and their resolution to stand firm to the present authority of the nation.</title>
+            <author>E. C.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79034</idno>
+            <idno type="STC">Wing C27</idno>
+            <idno type="STC">Thomason E602_17</idno>
+            <idno type="STC">ESTC R206416</idno>
+            <idno type="EEBO-CITATION">99865578</idno>
+            <idno type="PROQUEST">99865578</idno>
+            <idno type="VID">117823</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79034)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117823)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 92:E602[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Scots remonstrance or declaration; concerning, the restoring their declared King to his just rights and priviledges; with their raising an army of 25000 men, and setting forth a great fleet of ships, and what their designe is. Also, a more exact relation of the resolute deportment of the late Marquess of Montross, and several speeches spoken by him, at the time of his execution. Together, with the Lord Hoptons letter, to divers of the gentry in Cornwall, and Devonshire, concerning the King of Scots, and the Parliament of England; and their resolution to stand firm to the present authority of the nation.</title>
+                  <author>E. C.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G.H. and are to be sold at the Royall-Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: E.C.</note>
+                  <note>Annotation on Thomason copy: "May 29".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term>Montrose, James Graham, --  Marquis of, 1612-1650 --  Early works to 1800.</term>
+               <term>Scotland --  History --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117823:1" rendition="simple:additions"/>
+            <p>THE SCOTS REMONSTRANCE OR DECLARATION; Concerning, The reſtoring their Declared King to His juſt Rights and Priviledges; with their raiſing an Army of 25000 men, and ſetting forth a great Fleet of Ships, and what their Deſigne is.</p>
+            <p>Alſo, a more exact relation of the reſolute de<g ref="char:EOLhyphen"/>portment of the late Marqueſs of <hi>Montroſs,</hi> and ſeverall ſpeeches ſpoken by him, at the time of his Execution.</p>
+            <p>Together, with the Lord Hoptons Letter, to divers of the Gentry in <hi>Cornwall,</hi> and <hi>Devonſhire,</hi> concerning the King of <hi>Scots,</hi> and the Parliament of <hi>England;</hi> and their reſolution to ſtand firm to the preſent Authority of the Nation.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>G. H.</hi> and are to be ſold at the <hi>Royall-Exchange</hi> 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:117823:2"/>
+            <pb n="1" facs="tcp:117823:2"/>
+            <head>The Scots Remonſtrance or Declaration, for the reſtoring their declared King to his juſt Rights and Priviledges, and the raiſing of an Army of 25000 men.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">S</seg>Ince my arrivall in theſe parts, great hath been my deſire to attend your motion, and to ſalute you with thoſe Occurrences which are of greateſt concernment (being high<g ref="char:EOLhyphen"/>ly oblig'd unto you, for your for<g ref="char:EOLhyphen"/>mer manifold favours;) Your laſt of the 14th inſtant, ſeeming to chal<g ref="char:EOLhyphen"/>lenge a return of ſuch overtures; which (with an im<g ref="char:EOLhyphen"/>partiall pen) I ſhall here repreſent, deſiring they may ſpeedily kiſſe your hand, and not be concealed from publike view. On the 21 inſtant, the late Marqueſſe of <hi>Montroſs</hi> received ſentence of death, and the ſame day was brought to the place of execution (attend<g ref="char:EOLhyphen"/>ed by divers of the Nobility and Gentry) his gallant deportment, not a little amazing the Spectators; who after a ſhort ſpeech, touching his engagement for his Soveraign, further declared, that if nothing would ſatisfie the Parliament of <hi>Scotland</hi> but his bloud, that
+<pb n="2" facs="tcp:117823:3"/>it would be required again at their hands, and that he valued not his life in the leaſt, it being a debt that muſt be paid; and that it did greatly comfort his dying ſpirits, to think that he did not onely act, but was to ſuffer for his Majeſty; and ſaid, if he had a hundred lives, he would freely ſacrifice them all for his cauſe, proteſting, he never took more delight in riding in a Coach to take his recreation in earthly pleaſures, then he did to ride to the place of execu<g ref="char:EOLhyphen"/>tion in a Cart, to be deprived of them. Which decla<g ref="char:EOLhyphen"/>ratory expreſſion being ended, he pull'd off his Be<g ref="char:EOLhyphen"/>ver and gold hat-band, and caſt it to a Gentleman ſtanding by him, and lifting up his hands to heaven, deſired the Executioner to proceed and do his Office, his ſpirit not ſeeming to be troubled, nor his coun<g ref="char:EOLhyphen"/>tenance to change, and his carriage as ſweet as ever I ſaw a mans in all my days. And truly, it is abſolutely believed, that he hath gained a better repute amongſt thoſe of his faction (by his death) then ever he did in his life. And after three hours hanging on the Gal<g ref="char:EOLhyphen"/>lows, his body was cut down, and his head ſevered from his ſholders, and ſet upon the Tole-booth of this City, his arms and legs were likewiſe cut off and commanded to be ſet upon four principle places of the Kingdom, which are ſuppoſed to be <hi>Aberdeen, Glaſcow, Sterling,</hi> and St. <hi>Johnſtons.</hi>
+            </p>
+            <p>This being performed, many of the royall-party ſeemed very diſcontented, threatning to be reveng'd, &amp;c. but it is believed, no ſuch thing dare be attempt<g ref="char:EOLhyphen"/>ed, notwithſtanding the great activeneſs of the Preſ<g ref="char:EOLhyphen"/>bytery in the North of <hi>Scotland,</hi> who have ſet forth a declaration of their loyall integrity to their declared King, and of the carrying on the deſigne formerly in<g ref="char:EOLhyphen"/>tended
+<pb n="3" facs="tcp:117823:3"/>by the aforeſaid Marqueſs of <hi>Montroſs,</hi> proteſt<g ref="char:EOLhyphen"/>ing; That from their ſouls they abhor and deteſt, the delivering of the late King over to bondage, impriſon<g ref="char:EOLhyphen"/>ment, and murther; and that they will endeavour to eſtabliſh his preſent Majeſty, in all his juſt Rights and priviledges; and in order thereunto, the Mini<g ref="char:EOLhyphen"/>ſters in thoſe parts, preach very high in their pulpits, to ſtir up their ſeverall Congregations to an engage<g ref="char:EOLhyphen"/>ment, againſt the Sectaries of both Kingdomes (as they are pleaſed to call them.) But what the event of theſe revolutions will be, few days will make mani<g ref="char:EOLhyphen"/>feſt; It is conceived by many, that had not the blow been given in that nick of time, ſome ſad events would have attended the delay, which (in all probability) will now be prevented; for if Court ſplendency, great mens deluding perſwaſions, with deſigned Nationall advantages, do blinde the eys of the Church general, as wel as thus it did provincial, it may then be percei<g ref="char:EOLhyphen"/>ved, that it is not the name of Preſbytery, that will keep conſcience unſtained, nor crooked turnings aſide unblaſted, as may be inſtanced by their late proceed<g ref="char:EOLhyphen"/>ings againſt thoſe that would not ſubſcribe to the a<g ref="char:EOLhyphen"/>foreſaid engagement, impriſoning thoſe that denied it.</p>
+            <p>Here is an Army raiſing, by authority from the Committee of Eſtates, the chief Officers have already received Commiſſions, they intend to levy 20000 horſe and foot, to be added to the old modell of 5000; and declare, that it is for the defence of their Country, but it is to be ſuſpected, their deſigne is againſt <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> whether ſo or not, I am not able to reſolve; but I can aſſure you, the <hi>Scots</hi> look upon a party in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> as a perfidious and Covenant-breaking people, and ſay, they are bound to maintain the ſolemn league and Covenant.</p>
+            <pb n="4" facs="tcp:117823:4"/>
+            <p>The Earl of <hi>Nauferling</hi> is returned from <hi>Breda,</hi> with a Copy of their young Kings Condeſcenſions, which ſeems ſatisfactory to many; and there are thoughts amongſt the great ones, of proclaiming him a new upon his arrivall; ſome giving out, that he is expect<g ref="char:EOLhyphen"/>ed about the 10th of <hi>june,</hi> but how true I know not: Others report, he is not to be received untill he hath ſigned all the Articles, which it's believed, hee will not now ſtick to do, conſidering the great blow gi<g ref="char:EOLhyphen"/>ven to <hi>Montroſs.</hi>
+            </p>
+            <p>We hear that he hath lately received a letter from the <hi>Queen</hi> his Mother; Wherein ſhe ſeems to be ſome<g ref="char:EOLhyphen"/>what diſpleaſed at his Agreement with the <hi>Scots,</hi> and urgeth that he will be totally ruined thereby, for want of following her advice, and making good pro<g ref="char:EOLhyphen"/>viſion in behalf of the Roman Catholicks.</p>
+            <p>Divers Scottiſh ſhips are already rigged, and ready to put forth to Sea, being well mann'd, and accom<g ref="char:EOLhyphen"/>modated with plenty of warlike proviſion; they pre<g ref="char:EOLhyphen"/>tend (onely) to be for the guard of their own Seas, and to maintain their own intereſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, but many con<g ref="char:EOLhyphen"/>ceive, that their deſigne is to attend the motion of their Land forces; who ſince the concluding of the Treaty at <hi>Breda,</hi> give out high ſpeeches; <hi>viz.</hi> That they hope that the Kingdome of <hi>Scotland</hi> will ſoon be in a caſe of reſtoring their King to a flouriſhing condi<g ref="char:EOLhyphen"/>tion, if he will become a reformed Preſbyter. The Marqueſſe of <hi>Argile</hi> ſtands firm for the preſervation of the League and Amity between <hi>England</hi> and <hi>Scotland;</hi> and hath openly declared, that he will not be inſtru<g ref="char:EOLhyphen"/>mentall for the fomenting of new differences, &amp;c. which doth not a little retard the deſigne of the new modelling Army.</p>
+            <pb n="5" facs="tcp:117823:4"/>
+            <p>Thus having in a brief and impartiall manner com<g ref="char:EOLhyphen"/>municated thoſe things that ſeem to be of greateſt concernment; I deſire to participate of your intelli<g ref="char:EOLhyphen"/>gence at <hi>London,</hi> and if I may not ſeem to exceed the bounds of modeſty in my requeſt, the continuance thereof will bee very acceptable to him, who re<g ref="char:EOLhyphen"/>mains</p>
+            <closer>
+               <signed>Your affectionate Servant, <hi>E. C.</hi>
+               </signed>
+               <dateline>
+                  <hi>Edenbourgh,</hi> 
+                  <date>
+                     <hi>May</hi> 20. 1650.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>The Copy of a Letter out of the Weſt.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THis morning we received an expreſſe from <hi>Pen<g ref="char:EOLhyphen"/>dennis</hi> in <hi>Cornwall,</hi> intimating, That the Lord <hi>Hopton</hi> had landed ſome forces in the Iſland of <hi>Scilly,</hi> and that he had ſent a Letter, (with a Declaration en<g ref="char:EOLhyphen"/>cloſed) to divers of the Gentry in <hi>Devonſhire</hi> and <hi>Corn<g ref="char:EOLhyphen"/>wall,</hi> ſhewing the grounds and reaſons of his preſent engagement, and that his chief aim and ends, tend to nothing elſe, but the advancement of his Majeſties cauſe, and reſtoring of the ſubject to his juſt liberty and propriety, &amp;c. with many other fair gloſſes, in<g ref="char:EOLhyphen"/>termixed with ſeverall invectives againſt the preſent government and authority; and withall, deſires them to
+<pb n="6" facs="tcp:117823:5"/>caſt off their preſent yoak, and to remain no longer ſubject to their commands; And to the end that his advice might take the deeper impreſſion upon them, he diſpatched ſeverall Agents to <hi>Cornwall</hi> and <hi>Devon<g ref="char:EOLhyphen"/>ſhire,</hi> for the diſperſing of theſe papers amongſt the in<g ref="char:EOLhyphen"/>habitants, and to withdraw and alienate their tender affections from the preſent Government and Autho<g ref="char:EOLhyphen"/>rity of the Nation; but in the execution thereof, ſome of them were apprehended, and by the great vigilancy of Sir <hi>Hardreſs Waller,</hi> the plot was diſcovered; which otherwiſe, in few days might have proved of dange<g ref="char:EOLhyphen"/>rous conſequence to the Republique, by reaſon of the great forwardneſs of many, in under-hand and pri<g ref="char:EOLhyphen"/>vate liſtings: Which deſigne not taking effect, it is ſaid, that the Inhabitants in thoſe parts are now re<g ref="char:EOLhyphen"/>ſolved to ſtand firm to the preſent power and Autho<g ref="char:EOLhyphen"/>rity, and to live and dye with them, in the preſerva<g ref="char:EOLhyphen"/>tion and ſafety of <hi>Englands</hi> liberty, againſt all former oppoſition whatſoever.</p>
+            <closer>
+               <dateline>
+                  <hi>Bridgewater,</hi> 
+                  <date>
+                     <hi>the</hi> 24th <hi>of May,</hi> 1650.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
